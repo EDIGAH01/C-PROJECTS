@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712322965 source:c:\users\hp\desktop\c++_projects\cube\main.cpp
+	<iostream>
+	<math.h>
+
